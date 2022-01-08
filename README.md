@@ -8,7 +8,7 @@
  
  <h3 align="center">👋Hi there, I'm F9 | I'm a Code Enthusiast 💻!</h3>
  
- <hr />
+ <hr style="height:1px;border:none;color:#333;background-color:#333;" />
  
  <p>
    I am very interested in the world of application development or coding. I
