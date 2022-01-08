@@ -3,7 +3,6 @@
       <img
         src="https://user-images.githubusercontent.com/65881558/148159098-ce04a6ef-93c7-4c5e-b1ce-3f2e88ac174f.png"
         alt="profile banner"
-        width="800"
       />
  </p>
  
