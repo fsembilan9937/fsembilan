@@ -6,15 +6,15 @@
       />
  </p>
  
- <h3 align="center">👋Hi there, I'm F9 | I'm a Code Enthusiast 💻!</h3>
- 
- <hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
+ <h2 align="center">👋Hi there, I'm F9 | I'm a Code Enthusiast 💻!</h3>
  
  <p align="justify">
    I am very interested in the world of application development or coding. I
    like to learn new things in programming languages ​​especially when facing
    errors. for me, coding is a side art that humans encounter in this world.
  </p>
+ 
+ 
 
 <!---
 fsembilan/fsembilan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
