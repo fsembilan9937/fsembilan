@@ -10,7 +10,7 @@
  
  <hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
  
- <p>
+ <p align="justify">
    I am very interested in the world of application development or coding. I
    like to learn new things in programming languages ​​especially when facing
    errors. for me, coding is a side art that humans encounter in this world.
